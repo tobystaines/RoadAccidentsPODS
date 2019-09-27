@@ -9,3 +9,6 @@ Principles of Data Science coursework project investigating relationships betwee
 * Acc_2016_Tidy.csv - All traffic accidents reported to police in 2016 involving injury.
 * Cas_2016_Tidy.csv - Details of all casulaties involved in accidents.
 * Veh_2016_Tidy.csv - Details of all vehicles involved in accidents.
+
+I have also written an article in Towards Data Science based on this work, which is available here:
+https://towardsdatascience.com/car-crashes-and-the-weather-an-exploratory-analysis-of-environmental-conditions-impact-on-traffic-12bcb7f9afed
